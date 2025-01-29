@@ -144,7 +144,7 @@ const SkillsComponent = () => {
   const data = [
     {
       id: "1",
-      icon: "http://simpleicon.com/wp-content/uploads/lcd_1-150x150.png",
+      icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOn8DbriioqMj7tDtHLNiQlWeERCGPCnWcWg&s",
       title: "Front-end",
       desc:
         "I like to design and portray creative vision while optimizing user experience",
